@@ -22,8 +22,6 @@ const Authors = (props) => {
     return <div>loading...</div>;
   }
 
-  console.log(authorsQuery);
-
   return (
     <div>
       <h2>authors</h2>
